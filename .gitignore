@@ -1,0 +1,25 @@
+# Local credentials and settings
+.env
+.env.*
+!.env.example
+local.properties
+appsettings.local.json
+*.user
+*.suo
+# IDE / build outputs
+.idea/
+.vs/
+.gradle/
+.claude/
+.settings/
+node_modules/
+target/
+bin/
+obj/
+out/
+build/
+logs/
+*.log
+logs.txt
+*.class
+*.iml
